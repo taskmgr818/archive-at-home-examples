@@ -1,0 +1,8 @@
+﻿proxy:
+eh_cookie: ipb_member_id=xxxxx; ipb_pass_hash=xxxxx; igneous=xxxxx
+BOT_TOKEN:
+AD:
+  text:
+  url:
+NEW_SERVICE:
+  base_url: http://127.0.0.1:8080
